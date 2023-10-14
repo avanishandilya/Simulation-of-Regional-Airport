@@ -2,8 +2,7 @@
 ## Goal of The Project
 This is to simulate a regional airport database management. This employs normalization, primary keys, foreign keys, and join queries to ensure data consistency. 
 
-###Important to know
-I am using mySQL 8.0
+### Important to know- I am using mySQL 8.0
 
 ## Tables 
 1. Aircraft
@@ -86,4 +85,4 @@ This table relates to the employee position tables. This one has the descriptive
 ## Entity-Relationship Diagram 
 With databases, it is important to have an entity-relations diagram. Here is the ER diagram for this database: 
 
-![Images](/Images/ERDiagram.png)
+![Images](/Images/ERDiagram.PNG)
