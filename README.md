@@ -1,6 +1,6 @@
 # Simulation-of-Regional-Airport
 ## Goal of The Project
-This is to simulate a regional airport database management. This employs noramlization, primary keys, foreign keys, and join queries to ensure data consistency. 
+This is to simulate a regional airport database management. This employs normalization, primary keys, foreign keys, and join queries to ensure data consistency. 
 
 ###Important to know
 I am using mySQL 8.0
@@ -65,7 +65,7 @@ It has:
 
 
 ### 7. Passenger 
-This table has information pertaining to some passengers that fly in the region
+This table has information pertaining to some passengers who fly in the region
 1. ID -int
 2. firstName - varchar                   
 3. lastName - varchar                   
@@ -77,13 +77,13 @@ This table has information pertaining to some passengers that fly in the region
 9. email - varchar
 
 ### 8. Position
-This table relates to the employeePosition tables. This one has the descriptive names for the job titles. It has: 
+This table relates to the employee position tables. This one has the descriptive names for the job titles. It has: 
 1. ID int
 2. description - varchar
 3. hourly - decimal
 
 
 ## Entity-Relationship Diagram 
-With databases, it is important to have an entity-relatiionp diagram. Here is the ER diagram for this database: 
+With databases, it is important to have an entity-relations diagram. Here is the ER diagram for this database: 
 
 ![Images](/Images/ERDiagram.png)
